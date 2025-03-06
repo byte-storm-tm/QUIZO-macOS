@@ -4,8 +4,7 @@
   Proyecto creado originalmente por ByteStorm y <a href="https://github.com/Soy-Katsito">Katsito</a>.<br>
   Versión macOS desarrollada por <a href="https://github.com/charmander58github">charmander58</a>.
 </p>
-<h1 align="center"><img alt="QUIZO" title="QUIZO" src="https://github.com/user-attachments/assets/79297f50-3118-4778-a586-785f6945be1d" width="50"></h1>
-
+<h1 align="center"><img alt="QUIZO" title="QUIZO Code swift" src="https://github.com/user-attachments/assets/2ee9ec91-1889-4af0-84e2-e449cdd0d98b" width="50"></h1>
 
 ## Introducción
 
