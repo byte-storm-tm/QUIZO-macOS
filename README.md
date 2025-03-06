@@ -2,9 +2,15 @@
 
 <p align="center">
   Proyecto creado originalmente por ByteStorm y <a href="https://github.com/Soy-Katsito">Katsito</a>.<br>
-  Versión macOS desarrollada por <a href="https://github.com/charmander58github">charmander58</a>.
+  Versión macOS desarrollada por <a href="https://github.com/charmander58">charmander58</a>.
 </p>
-<h1 align="center"><img alt="QUIZO" title="QUIZO Code swift" src="https://github.com/user-attachments/assets/2ee9ec91-1889-4af0-84e2-e449cdd0d98b" width="50"></h1>
+
+<h2 align="center">QUIZO macOS</h2>
+<p align="center">
+  Una aplicación innovadora para estudiantes que utiliza IA para evaluar su desempeño con precisión y seguridad, garantizando un entorno protegido y privado.
+</p>
+
+<h1 align="center"><img alt="QUIZO" title="QUIZO" src="https://github.com/user-attachments/assets/79297f50-3118-4778-a586-785f6945be1d" width="50"></h1>
 
 ## Introducción
 
@@ -17,6 +23,7 @@ Desde su fundación en 2024, ByteStorm ha trabajado en el desarrollo de herramie
 - **Protección de datos**: Cumple con estándares de seguridad y privacidad.
 - **Análisis en tiempo real**: Proporciona retroalimentación inmediata sobre el rendimiento del estudiante.
 - **Acceso a recursos educativos**: Facilita materiales interactivos y ejercicios de estudio.
+- **Optimizado para macOS**: Aprovecha todas las capacidades de la plataforma Apple.
 
 ## Funcionamiento
 
@@ -30,6 +37,18 @@ QUIZO ha sido desarrollado con un enfoque prioritario en la seguridad de la info
 
 ByteStorm implementa tecnologías avanzadas para prevenir fraudes y garantizar que cada evaluación se realice en condiciones justas y transparentes.
 
+## Requisitos del Sistema
+
+- macOS 12.0 o superior
+- 4GB de RAM mínimo
+- 100MB de espacio disponible
+- Conexión a Internet para actualizaciones y sincronización
+
 ## Retroalimentación
 
 Valoramos la opinión de nuestros usuarios. Si tienes sugerencias, comentarios o encuentras algún inconveniente, puedes contactarnos a través de nuestro sistema de soporte en [GitHub Issues](https://github.com/Soy-Katsito/QUIZO/issues/new). Tu retroalimentación es fundamental para mejorar continuamente QUIZO y optimizar la experiencia de evaluación académica.
+
+## Derechos de Autor
+
+© 2024-2025 ByteStorm - Todos los derechos reservados  
+© 2021-2025 Chardev's team - Todos los derechos reservados
