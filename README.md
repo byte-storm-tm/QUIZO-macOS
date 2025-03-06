@@ -1,7 +1,7 @@
 <h1 align="center"> <img alt="QUIZO" title="QUIZO" src="https://github.com/user-attachments/assets/fdc6ec64-1d98-450f-b6eb-1f1b06fa5346" width="450"> </h1> <br>
 <p align="center">
   Proyecto creado originalmente por ByteStorm y <a href="https://github.com/Soy-Katsito">Katsito</a>.<br>
-  Versión macOS desarrollada por <a href="https://github.com/charmander58">charmander58</a>.
+  Versión macOS desarrollada por <a href="https://github.com/Charmander58GitHub">charmander58</a>.
 </p>
 <h2 align="center">QUIZO macOS</h2>
 <p align="center">
