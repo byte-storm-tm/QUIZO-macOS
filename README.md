@@ -1,7 +1,7 @@
 # QUIZO | macOS
 
 <p align="center">
-  <img alt="QUIZO macOS" src="![image](https://github.com/user-attachments/assets/89135692-c57a-4ced-b89f-8926b3bcbc24)" width="600">
+  <img alt="QUIZO macOS" src="https://github.com/user-attachments/assets/89135692-c57a-4ced-b89f-8926b3bcbc24" width="600">
 </p>
 
 <p align="center">
