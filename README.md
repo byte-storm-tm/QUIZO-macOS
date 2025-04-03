@@ -1,4 +1,4 @@
-<h1 align="center"> <img alt="QUIZO" title="QUIZO" src="https://github.com/user-attachments/assets/cb92680d-9836-4f37-aaf1-3a592c1d4e40"
+<h1 align="center"> <img alt="QUIZO" title="QUIZO" src="https://github.com/user-attachments/assets/cb92680d-9836-4f37-aaf1-3a592c1d4e43"
 idth="450"> </h1> <br>
 <p align="center">
   Proyecto creado originalmente por ByteStorm y <a href="https://github.com/Soy-Katsito">Katsito</a>.<br>
