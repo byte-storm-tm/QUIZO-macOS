@@ -1,7 +1,7 @@
 # QUIZO macOS
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fdc6ec64-1d98-450f-b6eb-1f1b06fa5346" alt="QUIZO macOS" width="600">
+  <img src="https://github.com/user-attachments/assets/fab457b9-a160-452b-8b11-96f2b78b56f4" alt="QUIZO macOS" width="600">
   
   Proyecto creado originalmente por ByteStorm y [Katsito](https://github.com/Soy-Katsito).  
   Versión macOS desarrollada por [Charmander58](https://github.com/Charmander58GitHub).
