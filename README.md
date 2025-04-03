@@ -1,21 +1,15 @@
-# QUIZO | macOS
+# QUIZO macOS
 
-<p align="center">
-  <img alt="QUIZO macOS" src="https://github.com/user-attachments/assets/89135692-c57a-4ced-b89f-8926b3bcbc24" width="600">
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fdc6ec64-1d98-450f-b6eb-1f1b06fa5346" alt="QUIZO macOS" width="600">
+  
+  Proyecto creado originalmente por ByteStorm y [Katsito](https://github.com/Soy-Katsito).  
+  Versión macOS desarrollada por [Charmander58](https://github.com/Charmander58GitHub).
 
-<p align="center">
-  Proyecto creado originalmente por ByteStorm y <a href="https://github.com/Soy-Katsito">Katsito</a>.<br>
-  Versión macOS desarrollada por <a href="https://github.com/Charmander58GitHub">Charmander58</a>.
-</p>
-
-<p align="center">
-  <b>Una aplicación innovadora para estudiantes que utiliza IA para evaluar su desempeño con precisión y seguridad, garantizando un entorno protegido y privado.</b>
-</p>
-
-<p align="center">
-  <img alt="Swift" src="https://github.com/user-attachments/assets/87d6ff28-43e6-4d40-a2f4-3bab504ef408" width="40">
-</p>
+  **Una aplicación innovadora para estudiantes que utiliza IA para evaluar su desempeño con precisión y seguridad, garantizando un entorno protegido y privado.**
+  
+  <img src="https://github.com/user-attachments/assets/87d6ff28-43e6-4d40-a2f4-3bab504ef408" alt="Swift" width="40">
+</div>
 
 ## Introducción
 
@@ -59,6 +53,16 @@ ByteStorm implementa tecnologías avanzadas para prevenir fraudes y garantizar q
 - Monitoreo de aplicaciones para la detección de IA
 
 La aplicación está diseñada para ejecutarse en modo pantalla completa y requiere los permisos necesarios en Preferencias del Sistema > Seguridad y Privacidad para el funcionamiento óptimo de todas sus características de seguridad.
+
+## ¿Qué tecnologías utilizamos?
+
+En el desarrollo de QUIZO para macOS, utilizamos una variedad de tecnologías y herramientas para garantizar una solución eficiente y de alto rendimiento:
+
+- **Swift**: Lenguaje principal para el desarrollo nativo en macOS
+- **SwiftUI**: Framework moderno para la interfaz de usuario
+- **Core ML**: Implementación de modelos de aprendizaje automático
+- **AVFoundation**: Gestión de componentes audiovisuales
+- **Combine**: Procesamiento asíncrono de eventos
 
 ## Retroalimentación
 
